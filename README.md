@@ -7,6 +7,11 @@
 * We can use Remix Ethereum IDE to develop smart contracts.  
 #### Write and deploy a simple smart contract on a local blockchain.
 
+
+<br>
+<br>
+
+
 ### Day 2–3: Solidity Basics
 #### Learn Solidity data types, variables, operators, control structures (such as if statements and loops), and practice writing basic smart contracts for simple use cases.
 *  I will be using the following tutorial:
