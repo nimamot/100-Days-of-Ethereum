@@ -22,15 +22,18 @@
 - I will be using the following tutorial:
   https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=291s
 
-  React commands using vite:
+  - React commands using vite (all frontend stuff):
 
-  - npm init vite@latest
-  - npm install
-  - npm run dev
+    - npm init vite@latest
+    - npm install
+    - npm run dev
 
-  We'll also use tailwindcss for "building modern websites":
+    We'll also use tailwindcss for "building modern websites":
 
-  - setup:
-    - https://tailwindcss.com/docs/guides/create-react-app
-      - npm install -D tailwindcss
-      - npx tailwindcss init
+    - setup:
+      - https://tailwindcss.com/docs/guides/create-react-app
+        - npm install -D tailwindcss
+        - npx tailwindcss init
+
+  - Backend:
+    - npm init -y : make an empty Json
