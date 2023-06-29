@@ -38,4 +38,10 @@
   - Backend:
     - npm init -y : make an empty Json
 
-### Day 4-5:
+### Day 4–7: Solidity Functions and Events
+
+- Understand how to define and use functions in Solidity.
+- Learn about function modifiers and fallback functions.
+- Explore advanced topics like function overloading.
+- Explore event handling and logging in Solidity.
+- Build smart contracts with multiple functions and events.
