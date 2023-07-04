@@ -37,6 +37,8 @@
 
   - Backend:
     - npm init -y : make an empty Json
+    - installing react-icons and ether packages:
+      - npm install react-icons ethers
 
 ### Day 4–7: Solidity Functions and Events
 
