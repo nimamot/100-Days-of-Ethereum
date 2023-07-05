@@ -2,7 +2,7 @@ import { HiMenuAlt4 } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";
 
 import logo from "../../images/logo.png";
-import bitomoji from "../../images/Bitomoji_70 copy.png";
+//import bitomoji from "../../images/Bitomoji_70 copy.png";
 
 const NavbarItem = ({ title, classprops }) => {
   return <li className={`mx-4 cursor-pointer ${classprops}`}>{title}</li>;
