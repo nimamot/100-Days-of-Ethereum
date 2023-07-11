@@ -18,16 +18,9 @@
 - Chain Link is the most popular and powerful decentralized Oracle network.
 - It can work on ETH, Avalanche, Polygon, Solana or any other blockchain.
 
-#### Set up a development environment for Solidity.
-
-- We can use Remix Ethereum IDE to develop smart contracts.
-- Allows users to engage with finance and markets without having to go through a centralized intermediary.
-
 #### What is the purpose of the smart contracts? what problem do they solve?
 
 - They give rise to unbreakable promises since they are immutable, decentralized and transparent.
-
-#### Write and deploy a simple smart contract on a local blockchain.
 
 <br>
 <br>
@@ -39,9 +32,20 @@
 - Decentralized Finance
 - Allow users to engage with finance and markets without having to go through a centralized intermediary.
 
+#### What are DAOs?
+
+- Decentralized Autonomous Organizations
+- A type of bottom-up entity structure with no central authority. Members of a DAO own tokens of the DAO, and members can vote on initiatives for the entity. Smart contracts are implemented for the DAO, and the code governing the DAO's operations is publicly disclosed.
+
 ### Day 3: Solidity Basics
 
 #### Learn Solidity data types, variables, operators, control structures (such as if statements and loops), and practice writing basic smart contracts for simple use cases.
+
+#### Set up a development environment for Solidity.
+
+- We can use Remix Ethereum IDE to develop smart contracts.
+
+#### Write and deploy a simple smart contract on a local blockchain.
 
 - I will be using the following tutorial:
   https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=291s
