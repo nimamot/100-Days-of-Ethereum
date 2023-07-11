@@ -10,17 +10,18 @@
 
 - mart contracts are a set of instructions executed in a decentralized way without the need for a centralized or third party intermediary.
 - We can think of them as sets of instructions written in code instead of traditional pen and paper.
-- Bitcoin is intentionally turning incomplete. Hence ETH is more commonely used for smart contracts.
+- Bitcoin is intentionally turning incomplete. Hence ETH is more commonly used for smart contracts.
 
 #### What role does Chain Link play?
 
 - Chain link allows for us to get Data and customize our smart contracts in any meaningful way.
 - Chain Link is the most popular and powerful decentralized Oracle network.
-- It can work on ETH, Avalanche, Polugon, Solana or any other blockchain.
+- It can work on ETH, Avalanche, Polygon, Solana or any other blockchain.
 
 #### Set up a development environment for Solidity.
 
 - We can use Remix Ethereum IDE to develop smart contracts.
+- Allows users to engage with finance and markets without having to go through a centralized intermediary.
 
 #### What is the purpose of the smart contracts? what problem do they solve?
 
@@ -31,7 +32,14 @@
 <br>
 <br>
 
-### Day 2–3: Solidity Basics
+### Day 2: Dive deeper into the Blockchain world:
+
+#### What is DeFi?
+
+- Decentralized Finance
+- Allow users to engage with finance and markets without having to go through a centralized intermediary.
+
+### Day 3: Solidity Basics
 
 #### Learn Solidity data types, variables, operators, control structures (such as if statements and loops), and practice writing basic smart contracts for simple use cases.
 
