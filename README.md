@@ -6,6 +6,12 @@
 
 - Solidity is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms
 
+#### What is a smart contract?
+
+- mart contracts are a set of instructions executed in a decentralized way without the need for a centralized or third party intermediary.
+- We can think of them as sets of instructions written in code instead of traditional pen and paper.
+- Bitcoin is intentionally turning incomplete. Hence ETH is more commonely used for smart contracts.
+
 #### Set up a development environment for Solidity.
 
 - We can use Remix Ethereum IDE to develop smart contracts.
