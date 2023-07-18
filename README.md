@@ -37,6 +37,12 @@
 - Decentralized Autonomous Organizations
 - A type of bottom-up entity structure with no central authority. Members of a DAO own tokens of the DAO, and members can vote on initiatives for the entity. Smart contracts are implemented for the DAO, and the code governing the DAO's operations is publicly disclosed.
 
+#### Transaction fees:
+
+- each blockchain has a different way of calculating this transaction fee
+- for most of them we can follow this formula:
+  - transaction fee = Gas Price \* Gas Used
+
 ### Day 3: Solidity Basics
 
 #### Learn Solidity data types, variables, operators, control structures (such as if statements and loops), and practice writing basic smart contracts for simple use cases.
