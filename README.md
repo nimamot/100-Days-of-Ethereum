@@ -27,6 +27,20 @@
 
 ### Day 2: Dive deeper into the Blockchain world:
 
+#### What is a blockchain?
+
+- A blockchain is a public database that is updated and shared across many computers in a network.
+
+- "Block" refers to data and state being stored in consecutive groups known as "blocks". If you send ETH to someone else, the transaction data needs to be added to a block to be successful.
+
+#### What is a Node on a blockchain?
+
+- A single instance in a decentralized network.
+- Think of it "one server" running the specific software.
+- Blockchain nodes keep lists of the transactions that occur.
+- Every computer in the network must agree upon each new block and the chain as a whole. These computers are known as "nodes". Nodes ensure everyone interacting with the blockchain has the same data. To accomplish this distributed agreement, blockchains need a consensus mechanism.
+- So a Blockchain is basically a decentralized "database" and with Ethereum, it can also do computations.
+
 #### What is DeFi?
 
 - Decentralized Finance
@@ -36,6 +50,11 @@
 
 - Decentralized Autonomous Organizations
 - A type of bottom-up entity structure with no central authority. Members of a DAO own tokens of the DAO, and members can vote on initiatives for the entity. Smart contracts are implemented for the DAO, and the code governing the DAO's operations is publicly disclosed.
+
+#### Consensus:
+
+- The mechanism used to agree on the state of a blockchain.
+- PoW (Proof of Work) and PoS (Proof of Stake).
 
 #### Transaction fees:
 
