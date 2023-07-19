@@ -72,9 +72,6 @@
 
 #### Write and deploy a simple smart contract on a local blockchain.
 
-- I will be using the following tutorial:
-  https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=291s
-
 ### Day 4–7: Solidity Functions and Events
 
 - Understand how to define and use functions in Solidity.
