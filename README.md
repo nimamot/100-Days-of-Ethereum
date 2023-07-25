@@ -8,6 +8,7 @@
 
 #### What is a smart contract?
 
+
 - Smart contracts are a set of instructions executed in a decentralized way without the need for a centralized or third party intermediary.
 - We can think of them as sets of instructions written in code instead of traditional pen and paper.
 - Bitcoin is intentionally turning incomplete. Hence ETH is more commonly used for smart contracts.
